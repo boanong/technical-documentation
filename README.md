@@ -12,7 +12,7 @@ This page is built with
 * CSS
 
 ### PREREQUISITES
-* A browser 
+* A browser
 * Internet connection
 * Familiarity with GitHub
 
