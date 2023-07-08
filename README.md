@@ -41,4 +41,4 @@ Feel free to check the [issues page](https://github.com/boanong/technical-docume
 - GitHub: [@boanong](https://github.com/boanong)
 
 ## License
-- A REBASE Academy licenced project 
+- A REBASE Academy licenced project
